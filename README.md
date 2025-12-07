@@ -245,26 +245,6 @@ Example features extracted via SQL:
 5. **Device age** is a significant but not dominant predictor
 6. **Environmental factors** (home offline rate) strongly influence device reliability
 
-## 🔮 Future Enhancements
-
-- [ ] Implement time-series forecasting for alert prediction
-- [ ] Add clustering analysis for device behavior patterns
-- [ ] Develop real-time anomaly detection
-- [ ] Create automated reporting pipeline
-- [ ] Build web-based dashboard for stakeholders
-- [ ] Integrate external data (weather, power outages)
-- [ ] Implement deep learning models (LSTM for time-series)
-- [ ] Add explainable AI (SHAP values) for model interpretability
-
-## 👥 Contributors
-
-This project was developed as part of AD599 - Data Analytics coursework.
-
-## 📄 License
-
-This project is for educational purposes.
-
-## 📧 Contact
 
 For questions or feedback, please refer to the documentation in the `Docs/` folder.
 
